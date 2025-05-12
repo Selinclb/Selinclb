@@ -1,4 +1,4 @@
 :octocat:
 --
 --
-Hi, I'm a Computer Science student. 
+Hi, I'm a Computer Programming student. 
